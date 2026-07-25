@@ -42,14 +42,13 @@ export function SiteHeader() {
             <Scale className="size-5" aria-hidden="true" />
           </span>
           <span className="flex flex-col leading-none">
-            <span className="font-serif text-lg tracking-[0.14em] uppercase">
-              P. Arul Kumar
-            </span>
-            <span className="mt-1 text-[10px] tracking-[0.2em] whitespace-nowrap text-accent uppercase sm:tracking-[0.24em]">
-              Advocate &middot; Pastor
-              <span className="hidden sm:inline"> &middot; Social Worker</span>
-            </span>
-          </span>
+  <span className="font-serif text-lg tracking-[0.12em] uppercase whitespace-nowrap">
+    P. ARUL KUMAR BA., LLB.
+  </span>
+  <span className="mt-1 text-[10px] tracking-[0.18em] whitespace-nowrap text-accent uppercase sm:tracking-[0.22em]">
+    Advocate | Pastor | Social Worker
+  </span>
+</span>
         </a>
 
         <nav
