@@ -41,7 +41,7 @@ export function SiteHeader() {
           <span className="flex size-10 items-center justify-center border border-accent/50 text-accent">
             <Scale className="size-5" aria-hidden="true" />
           </span>
-          <span className="flex flex-col leading-none">
+         <span className="flex flex-col leading-none">
   <span className="font-serif text-lg tracking-[0.12em] uppercase whitespace-nowrap">
     P. ARUL KUMAR BA., LLB.
   </span>
