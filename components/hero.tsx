@@ -12,7 +12,7 @@ export function Hero() {
       {/* Portrait */}
       <div className="absolute inset-y-0 right-0 z-0 w-full sm:w-[62%] lg:w-[52%]">
         <Image
-          src="/images/arul-kumar-portrait.png"
+          src="/images/arul-kumar-new.png"
           alt="Portrait of P. Arul Kumar in advocate robes"
           fill
           priority
